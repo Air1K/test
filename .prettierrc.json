@@ -1,4 +1,3 @@
-
 {
   "$schema": "https://json.schemastore.org/prettierrc",
   "trailingComma": "es5",
@@ -8,6 +7,6 @@
   "printWidth": 120,
   "bracketSpacing": true,
   "jsxSingleQuote": true,
-  "endOfLine": "auto"
-
+  "endOfLine": "auto",
+  "singleAttributePerLine": true
 }
